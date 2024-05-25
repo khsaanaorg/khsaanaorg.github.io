@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 美洲雄友會</title>
-    <link>https://khsaanaorg.github.io/liva/examplesite/categories/</link>
+    <link>https://khsaanaorg.github.io/categories/</link>
     <description>Recent content in Categories on 美洲雄友會</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://khsaanaorg.github.io/liva/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://khsaanaorg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android and Gaming</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/android-and-gaming/</link>
+      <link>https://khsaanaorg.github.io/categories/android-and-gaming/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/android-and-gaming/</guid>
+      <guid>https://khsaanaorg.github.io/categories/android-and-gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Go Language</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/go-language/</link>
+      <link>https://khsaanaorg.github.io/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/go-language/</guid>
+      <guid>https://khsaanaorg.github.io/categories/go-language/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/html/</link>
+      <link>https://khsaanaorg.github.io/categories/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/html/</guid>
+      <guid>https://khsaanaorg.github.io/categories/html/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML &amp; CSS</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/html--css/</link>
+      <link>https://khsaanaorg.github.io/categories/html--css/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/html--css/</guid>
+      <guid>https://khsaanaorg.github.io/categories/html--css/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming Language</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/programming-language/</link>
+      <link>https://khsaanaorg.github.io/categories/programming-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/programming-language/</guid>
+      <guid>https://khsaanaorg.github.io/categories/programming-language/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/python/</link>
+      <link>https://khsaanaorg.github.io/categories/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/python/</guid>
+      <guid>https://khsaanaorg.github.io/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Design</title>
-      <link>https://khsaanaorg.github.io/liva/examplesite/categories/web-design/</link>
+      <link>https://khsaanaorg.github.io/categories/web-design/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://khsaanaorg.github.io/liva/examplesite/categories/web-design/</guid>
+      <guid>https://khsaanaorg.github.io/categories/web-design/</guid>
       <description></description>
     </item>
   </channel>
